@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a PhD candidate at the University of Arizona in the School of Anthropology. My research focuses on cognitive evolution and social behavior, especially in domesticated species. I am particularly interested in exploring the biological underpinnings of behavior and cognition, including genetics, epigenetics, and hormones. I graduated from Princeton University in 2014 with a bachelors degree in Ecology and Evolutionary Biology.My senior thesis examined differences in genetic regulation (methylation) between dogs and wolves. After graduation, I spent a year teaching English and music in an elementary school in rural China. Before beginning my graduate studies, I worked as the laboratory coordinator for the Arizona Canine Cognition Center, where I am continuing my graduate research as a student in biological anthropology, with a minor in cognitive science.My dissertation will explore the biological bases of behavior and cognition in a working dog population, Canine Companions for Independence, with multiple behavioral genetic and endocrinology approaches. In the process, I have also been working to develop improved methods of measuring oxytocin and vasopressin in a variety of species and biological matrices.
+
 education:
   courses:
   - course: PhD in Artificial Intelligence
