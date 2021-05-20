@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Anthropology (Biological)
 social:
 - icon: envelope
   icon_pack: fas
