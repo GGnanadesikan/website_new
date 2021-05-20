@@ -14,12 +14,12 @@ education:
 email: "gitag@email.arizona.edu"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Animal Cognition
+- Animal Behavior
+- Behavioral Genetics, Epigenetics, and Endocrinology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Arizona
+  url: https://www.arizona.edu/
 role: PhD Candidate in Anthropology (Biological)
 social:
 - icon: envelope
